@@ -185,7 +185,6 @@ main {
 .profile-stats {
   border-top: 1px solid var(--ig-stroke);
   border-bottom: 1px solid var(--ig-stroke);
-
   padding: 12px;
   grid-column: 1 / -1;
   display: flex;
