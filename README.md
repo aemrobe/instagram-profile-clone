@@ -1,6 +1,4 @@
-# Frontend Mentor - Chat app CSS illustration solution
-
-This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+# cloning instagram profile section
 
 ## Table of contents
 
@@ -42,7 +40,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### What I learned
 
-in this challenge I use my flexbox and grid skill into practice. I reinforce my knowledge of flexbox and grid skills which Knew.
+in this challenge I use my flexbox and grid skill into practice. I reinforce my knowledge of flexbox and grid skills which I Knew.
 
 ### Continued development
 
